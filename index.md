@@ -769,6 +769,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Wiseman
 1. Jo Jerrica Decker
 1. Jona Azizaj (Fedora Project, Open Source Diversity)
+1. Jonas Ådahl (GNOME, freedesktop.org, Fedora)
 1. Jonas Anderö
 1. Jonas Obrist (PyCon JP Association Board Member)
 1. Jonas Schwartz
@@ -819,7 +820,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julien Wajsberg (Mozilla)
 1. June Taylor
 1. Jürgen Geuter (@tante)
-1. Justin Brock
 1. Justin Dearing (@zippy1981)
 1. Justin Haygood
 1. Justin Reock (Chief Evangelist at OpenLogic)
